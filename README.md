@@ -3,7 +3,7 @@
 ```
 Placeholder
 
-Files to support Databricks' "How to Scale Multimodal Systems on Databricks" blog.
+Files to support "How to Scale Multimodal Systems on Databricks" blog.
 ```
 
 ## How to get help
